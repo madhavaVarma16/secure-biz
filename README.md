@@ -19,7 +19,7 @@ Analyse Features: Spend some time investigating the different features and capab
 
 
 ## Support ##
-Please don't hesitate to contact our support team at help@securebiz.live if you have any queries or have any problems using SecureBiz.live. Our goal is to assist you in maximising the potential of our platform.
+Please don't hesitate to contact our support team at support@securebiz.live if you have any queries or have any problems using SecureBiz.live. Our goal is to assist you in maximising the potential of our platform.
 
 ## Feedback ##
 We appreciate feedback from the community that help us improve SecureBiz.live even more. Please feel free to create an issue or send a pull request on our GitHub repository if you have any suggestions for enhancements, new features, or bug corrections.
